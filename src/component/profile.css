@@ -1,0 +1,10 @@
+.contenedor{
+    background: var(--blanco--);
+    margin: 10px;
+    position: relative;
+}
+
+.avatar{
+    position: absolute;
+    top: -14px;
+}
